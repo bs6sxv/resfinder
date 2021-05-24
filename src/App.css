@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+ul#listed {
+  list-style-type: none;
+}
+
+body {
+  background-color: #b3cbf0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.mapid { 
+  margin-top: 15px;
+  margin-left: 70px;
+  height: 800px; 
+  width: 1000px; }
+
+/* .leaflet-container {
+  width: 100vw;
+  height: 100vh;
+} */
